@@ -30,7 +30,7 @@ This project requires Python 3.8 and the following Python libraries installed:
 You will also need to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/)
 
 ### Code
-My code is provided in `main.ipynb`. You will also be required to use `dataset/covid.train.csv` and `dataset/covid.test.shuffle.csv` dataset files to complete your work. In addition, the exported models, generated when runing `main.ipynb`, will be saved in `models/` folders. The prediction result of `covid.test.shuffle.csv` is created as `pred.csv`.  
+My code is provided in `main.ipynb`. You will also be required to use `dataset/covid.train.csv` and `dataset/covid.test.shuffle.csv` dataset files to complete your work. In addition, the exported models, generated when runing `main.ipynb`, will be saved in `models/` folder. The prediction result of `covid.test.shuffle.csv` is created as `pred.csv`.  
 ### Run
 In a terminal or command window, run the following commands:
 ```
