@@ -34,7 +34,7 @@ My code is provided in `main.ipynb`. You will also be required to use `dataset/c
 ### Run
 In a terminal or command window, run the following commands:
 ```
-jupyter notebook .ipynb
+jupyter notebook main.ipynb
 ```
 ## Data
 Source: Delphi group @ CMU, A daily survey since April 2020 via Facebook
